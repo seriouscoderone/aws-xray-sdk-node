@@ -1,5 +1,5 @@
 {
-  "name": "test-smoke",
+  "name": "@seriouscoderone/test-smoke",
   "version": "1.0.0",
   "description": "Smoke Test for AWS XRay SDK",
   "main": "index.js",

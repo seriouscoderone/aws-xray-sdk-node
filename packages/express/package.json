@@ -1,5 +1,5 @@
 {
-  "name": "aws-xray-sdk-express",
+  "name": "@seriouscoderone/aws-xray-sdk-express",
   "version": "3.9.1-alpha.0",
   "description": "AWS X-Ray Middleware for Express (Javascript)",
   "author": "Amazon Web Services",

@@ -1,5 +1,5 @@
 {
-  "name": "test-aws-xray-sdk-express",
+  "name": "@seriouscoderone/test-aws-xray-sdk-express",
   "private": true,
   "version": "3.9.1-alpha.0",
   "description": "AWS X-Ray Middleware for Express (Javascript)",
