@@ -1,6 +1,6 @@
 {
   "name": "@seriouscoderone/aws-xray-sdk-koa2",
-  "version": "3.9.1-alpha.0",
+  "version": "3.9.1-alpha.1",
   "description": "AWS X-Ray Middleware for koa (Javascript)",
   "author": "Amazon Web Services",
   "contributors": [
@@ -38,5 +38,5 @@
     "lib": "lib"
   },
   "license": "Apache-2.0",
-  "repository": "https://github.com/aws/aws-xray-sdk-node/tree/master/sdk_contrib/koa"
+  "repository": "https://github.com/seriouscoderone/aws-xray-sdk-node/tree/master/sdk_contrib/koa"
 }

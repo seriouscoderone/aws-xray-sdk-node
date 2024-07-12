@@ -1,6 +1,6 @@
 {
   "name": "@seriouscoderone/aws-xray-sdk-mysql",
-  "version": "3.9.1-alpha.0",
+  "version": "3.9.1-alpha.1",
   "description": "AWS X-Ray Patcher for MySQL (Javascript)",
   "author": "Amazon Web Services",
   "contributors": [
@@ -36,5 +36,5 @@
     "x ray"
   ],
   "license": "Apache-2.0",
-  "repository": "https://github.com/aws/aws-xray-sdk-node/tree/master/packages/mysql"
+  "repository": "https://github.com/seriouscoderone/aws-xray-sdk-node/tree/master/packages/mysql"
 }
